@@ -1,0 +1,32 @@
+{
+    "guildId": "891840230330613780",
+    "channelId": "977727794253545603",
+    "chores": [
+        "Kitchen",
+        "Living Room",
+        "Trash",
+        "Dishes"
+    ],
+    "roommates": [
+        {
+            "name": "Jack",
+            "id": "272602802444828673",
+            "finishedChore": false
+        },
+        {
+            "name": "Derek",
+            "id": "406988589117734913",
+            "finishedChore": false
+        },
+        {
+            "name": "Dawson",
+            "id": "441713828628267018",
+            "finishedChore": false
+        },
+        {
+            "name": "Kyle",
+            "id": "404120354655698947",
+            "finishedChore": false
+        }
+    ]
+}
