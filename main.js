@@ -35,7 +35,7 @@ async function assignChores() {
         let newIndex = (i + 1) % config.roommates.length;
         newRoommates[newIndex] = config.roommates[i];
         let guildMember = await guild.members.fetch(newRoommates[newIndex].id);
-        await guildMember.user.send(`Your chore for today is: ${config.chores[newIndex]}`);
+        await guildMember.userMention(`Your chore for today is: ${config.chores[newIndex]}`);
     }
 
     config.roommates = newRoommates;
