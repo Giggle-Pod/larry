@@ -9,11 +9,6 @@
     ],
     "roommates": [
         {
-            "name": "Jack",
-            "id": "272602802444828673",
-            "finishedChore": false
-        },
-        {
             "name": "Derek",
             "id": "406988589117734913",
             "finishedChore": false
@@ -26,6 +21,11 @@
         {
             "name": "Kyle",
             "id": "404120354655698947",
+            "finishedChore": false
+        },
+        {
+            "name": "Jack",
+            "id": "272602802444828673",
             "finishedChore": false
         }
     ]
